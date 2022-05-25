@@ -1,0 +1,20 @@
+{
+    "name": "Programmer-Mohaimin-Theme",
+    "displayName": "Programmer Mohaimin Theme",
+    "description": "Programmer_Mohaimin_theme is my first theme on Visual Studio Code. Create by Programmer Mohaimin Theme.",
+    "version": "1.0.0",
+    "publisher": "ProgrammerMohaimin",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ProgrammerMohaimin/theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "programmer mohaimin",
+        "programmermohaimin",
+        "stack learner",
+        "stacklearner"
+    ]
+    
+}
